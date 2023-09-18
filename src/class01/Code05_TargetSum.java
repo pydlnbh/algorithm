@@ -3,7 +3,7 @@ package class01;
 import java.util.HashMap;
 
 // leetcode 494题
-public class Code07_TargetSum {
+public class Code05_TargetSum {
     // solution one
     public static int findTargetSumWays1(int[] arr, int s) {
         return process1(arr, 0, s);

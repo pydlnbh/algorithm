@@ -2,7 +2,7 @@ package class01;
 
 // 给定一个二维数组matrix，你可以从任何位置出发，走向上、下、左、右四个方向，返回能走出来的最长的递增链长度
 // 测试链接: https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/
-public class Code05_LongestIncreasingPath {
+public class Code06_LongestIncreasingPath {
     // solution one
     public static int longestIncreasingPath1(int[][] matrix) {
         int ans = 0;
